@@ -13,6 +13,10 @@ nltk==3.9.1
 matplotlib==3.10.0
 plotly==5.24.1
 wordcloud==1.9.4
+bertopic==0.14.0
+sentence-transformers==2.3.0
+umap-learn==0.5.4
+hdbscan==0.8.32
 
 # European Commission SEDIA data retrieval
 sedia-api-fetchers==1.0.0

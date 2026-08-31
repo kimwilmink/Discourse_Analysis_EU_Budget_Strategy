@@ -15,6 +15,8 @@ The analysis uses each project's keywords, title, and objective (`metadata_freeK
 
 Project data is retrieved from the European Commission's [SEDIA](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/home) portal with the [`sedia-api-fetchers`](https://pypi.org/project/sedia-api-fetchers/) package, covering both the Horizon 2020 and Horizon Europe funding programmes.
 
+Due to the data's large file size, it was not uploaded to Github. The rest of the plots that were created in the notebooks, however, are in the data folder.
+
 ## Setup
 
 ```bash
